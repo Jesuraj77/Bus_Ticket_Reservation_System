@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.Entities\bin\Debug\netcoreapp2.2\BusTicketReservationSystem.Entities.deps.json
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.Entities\bin\Debug\netcoreapp2.2\BusTicketReservationSystem.Entities.dll
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.Entities\bin\Debug\netcoreapp2.2\BusTicketReservationSystem.Entities.pdb
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.Entities\obj\Debug\netcoreapp2.2\BusTicketReservationSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.Entities\obj\Debug\netcoreapp2.2\BusTicketReservationSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.Entities\obj\Debug\netcoreapp2.2\BusTicketReservationSystem.Entities.AssemblyInfo.cs
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.Entities\obj\Debug\netcoreapp2.2\BusTicketReservationSystem.Entities.dll
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.Entities\obj\Debug\netcoreapp2.2\BusTicketReservationSystem.Entities.pdb

@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\bin\Debug\netcoreapp2.2\BusTicketReservationSystem.BusinessLayer.deps.json
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\bin\Debug\netcoreapp2.2\BusTicketReservationSystem.BusinessLayer.dll
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\bin\Debug\netcoreapp2.2\BusTicketReservationSystem.BusinessLayer.pdb
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\bin\Debug\netcoreapp2.2\BusTicketReservationSystem.DataLayer.dll
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\bin\Debug\netcoreapp2.2\BusTicketReservationSystem.Entities.dll
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\bin\Debug\netcoreapp2.2\BusTicketReservationSystem.DataLayer.pdb
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\bin\Debug\netcoreapp2.2\BusTicketReservationSystem.Entities.pdb
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\obj\Debug\netcoreapp2.2\BusTicketReservationSystem.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\obj\Debug\netcoreapp2.2\BusTicketReservationSystem.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\obj\Debug\netcoreapp2.2\BusTicketReservationSystem.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\obj\Debug\netcoreapp2.2\BusTicketReservationSystem.BusinessLayer.AssemblyInfo.cs
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\obj\Debug\netcoreapp2.2\BusTicketReservationSystem.BusinessLayer.csproj.CopyComplete
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\obj\Debug\netcoreapp2.2\BusTicketReservationSystem.BusinessLayer.dll
+C:\Users\hp\source\repos\BusTicketReservationSystem\BusTicketReservationSystem.BusinessLayer\obj\Debug\netcoreapp2.2\BusTicketReservationSystem.BusinessLayer.pdb
